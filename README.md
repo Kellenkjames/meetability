@@ -1,4 +1,4 @@
-# Meetability
+# upMeet
 A meetup tool for developers
 
 ### Colaborators
