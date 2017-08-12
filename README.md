@@ -1,7 +1,7 @@
 # upMeet
 A meetup tool for developers
 
-### Colaborators
+### Collaborators
 
 * Hovsep Agop - [@hovsepa](https://github.com/hovsepa)
 * Kellen James - [@kellenkjames](https://github.com/kellenkjames)
